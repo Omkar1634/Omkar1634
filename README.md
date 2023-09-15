@@ -1,15 +1,22 @@
 
 ![Masthead](https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif)
-<h1 align="center">Hi 👋, I'm Omkar R Kharkar</h1>
+<h1 align="center"> 🚀 Hi 👋, I'm Omkar R Kharkar</h1>
 <h3 align="center">"Enthusiastic Engineer and AI Enthusiast with a Focus on Investigation, Data Analysis, and Innovative Solutions" </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar1634&label=Profile%20views&color=0e75b6&style=flat" alt="omkar1634" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omiiii72097558" target="blank"><img src="https://img.shields.io/twitter/follow/omiiii72097558?logo=twitter&style=for-the-badge" alt="omiiii72097558" /></a> </p>
 
+- 🎓 I am currently deep-diving into the world of Artificial Intelligence with my MSc at the University of Essex. My fascination? Exploring the potential of exercise in battling Parkinson's Disease through my thesis.
+
+- 🌱 Vision? Harnessing the power of AI to revolutionize healthcare and ensure it's more responsive and patient-centric. Keen on joining forces for collaborations, pioneering research, or groundbreaking industry projects? Let's make waves together
+
 - 🌱 I’m currently learning **Large Language models**
 
 - 📫 How to reach me **omkarkharkar1634@gmail.com**
+
+- 🔧 Fluent in the languages of Python, TensorFlow, and data visualization (Hello, Tableau & Power BI!), my roots in electronics & telecommunication give me a unique vantage point to look at projects.
 
 - ⚡ Fun fact **Double meaning Joke Lover**
 
